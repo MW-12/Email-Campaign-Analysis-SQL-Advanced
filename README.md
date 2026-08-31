@@ -57,4 +57,4 @@ preventing row multiplication in joins.
 Dashboard built in **Looker Studio** based on the query output,
 showing account count, sent emails, and country rankings:
 
-![Dashboard](dashboard.png)
+![Dashboard](image.png)
